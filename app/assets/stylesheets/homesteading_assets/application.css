@@ -1,7 +1,7 @@
-//= require base
-//= require nav
-//= require read-write
-//= require read
-//= require settings
-//= require alerts
-//= require pagination
+//= require homesteading_assets/base
+//= require homesteading_assets/nav
+//= require homesteading_assets/read-write
+//= require homesteading_assets/read
+//= require homesteading_assets/settings
+//= require homesteading_assets/alerts
+//= require homesteading_assets/pagination
