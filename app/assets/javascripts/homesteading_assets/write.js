@@ -1,7 +1,7 @@
-//= require modernizr
-//= require jquery
+//= require homesteading_assets/modernizr
+//= require homesteading_assets/jquery
 //= require jquery_ujs
-//= require jquery.simplyCountable
+//= require homesteading_assets/jquery.simplyCountable
 
 // for p-location geo fields
 // TODO: extract into plugin and out of global namespace
